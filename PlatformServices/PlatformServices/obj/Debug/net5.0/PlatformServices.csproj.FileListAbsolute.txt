@@ -1,5 +1,6 @@
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\appsettings.json
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\appsettings.Production.json
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\PlatformServices.exe
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\PlatformServices.deps.json
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\PlatformServices.runtimeconfig.json
@@ -8,6 +9,13 @@ C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\Plat
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\PlatformServices.pdb
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Grpc.Net.Common.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -28,6 +36,7 @@ C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\Plat
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\RabbitMQ.Client.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -65,5 +74,3 @@ C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\Plat
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\obj\Debug\net5.0\PlatformServices.pdb
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\obj\Debug\net5.0\PlatformServices.genruntimeconfig.cache
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\obj\Debug\net5.0\ref\PlatformServices.dll
-C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\appsettings.Production.json
-C:\Users\Kuba\Documents\dokumenty\programing\microservices\PlatformServices\PlatformServices\bin\Debug\net5.0\RabbitMQ.Client.dll

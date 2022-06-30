@@ -41,3 +41,7 @@ C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\Comma
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
 C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\Kuba\Documents\dokumenty\programing\microservices\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll
